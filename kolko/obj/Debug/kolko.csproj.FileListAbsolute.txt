@@ -1,0 +1,23 @@
+C:\Users\uczen\source\repos\kolko\kolko\bin\Debug\kolko.exe.config
+C:\Users\uczen\source\repos\kolko\kolko\bin\Debug\kolko.exe
+C:\Users\uczen\source\repos\kolko\kolko\bin\Debug\kolko.pdb
+C:\Users\uczen\source\repos\kolko\kolko\obj\Debug\kolko.csproj.AssemblyReference.cache
+C:\Users\uczen\source\repos\kolko\kolko\obj\Debug\kolko.Form1.resources
+C:\Users\uczen\source\repos\kolko\kolko\obj\Debug\kolko.Properties.Resources.resources
+C:\Users\uczen\source\repos\kolko\kolko\obj\Debug\kolko.csproj.GenerateResource.cache
+C:\Users\uczen\source\repos\kolko\kolko\obj\Debug\kolko.csproj.CoreCompileInputs.cache
+C:\Users\uczen\source\repos\kolko\kolko\obj\Debug\kolko.exe
+C:\Users\uczen\source\repos\kolko\kolko\obj\Debug\kolko.pdb
+C:\Users\uczen\source\repos\kolko\kolko\obj\Debug\kolko.Form2.resources
+C:\Users\Dawid\Desktop\visual 2022\kolko\kolko\bin\Debug\kolko.exe.config
+C:\Users\Dawid\Desktop\visual 2022\kolko\kolko\bin\Debug\kolko.exe
+C:\Users\Dawid\Desktop\visual 2022\kolko\kolko\bin\Debug\kolko.pdb
+C:\Users\Dawid\Desktop\visual 2022\kolko\kolko\obj\Debug\kolko.csproj.AssemblyReference.cache
+C:\Users\Dawid\Desktop\visual 2022\kolko\kolko\obj\Debug\kolko.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dawid\Desktop\visual 2022\kolko\kolko\obj\Debug\kolko.Form1.resources
+C:\Users\Dawid\Desktop\visual 2022\kolko\kolko\obj\Debug\kolko.Form2.resources
+C:\Users\Dawid\Desktop\visual 2022\kolko\kolko\obj\Debug\kolko.Properties.Resources.resources
+C:\Users\Dawid\Desktop\visual 2022\kolko\kolko\obj\Debug\kolko.csproj.GenerateResource.cache
+C:\Users\Dawid\Desktop\visual 2022\kolko\kolko\obj\Debug\kolko.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\visual 2022\kolko\kolko\obj\Debug\kolko.exe
+C:\Users\Dawid\Desktop\visual 2022\kolko\kolko\obj\Debug\kolko.pdb
